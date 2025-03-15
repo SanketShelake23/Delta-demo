@@ -1,2 +1,2 @@
 # Delta-demo
-This is first Git &amp; Github Repository
+This is first Git &amp; Github Repository.
